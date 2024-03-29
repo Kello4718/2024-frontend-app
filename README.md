@@ -1,1 +1,1 @@
-# 2024-frontend-app
+# Базовая структура проекта React + TS + Vite
